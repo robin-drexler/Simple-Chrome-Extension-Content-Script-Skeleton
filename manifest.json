@@ -20,5 +20,7 @@
                     "/js/content_script.js"
                 ]
         }
-    ]
+    ],
+
+    "manifest_version": 2
 }
