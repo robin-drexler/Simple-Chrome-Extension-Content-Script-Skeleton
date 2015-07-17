@@ -1,3 +1,3 @@
 $(function() {
-    alert('kkk');
+    console.log('Hello World');
 });
