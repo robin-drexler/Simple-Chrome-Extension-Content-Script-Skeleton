@@ -1,10 +1,10 @@
 {
     "name": "My awesome extension :)",
     "version": "0.1",
-    "icons": { 
+    "icons": {
         "16": "/img/icons/icon_16.png",
         "48": "/img/icons/icon_48.png",
-        "128": "/img/icons/icon_128.png" 
+        "128": "/img/icons/icon_128.png"
     },
 
     "description": "Yay, I'm so useless.",
@@ -16,7 +16,7 @@
         {
             "matches": ["<all_urls>"],
             "js": [
-                    "/js/external/jquery.js", 
+                    "/js/external/jquery.js",
                     "/js/content_script.js"
                 ]
         }
